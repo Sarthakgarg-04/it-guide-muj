@@ -36,7 +36,7 @@ background: linear-gradient(to right, #61045F, #AA076B); /* W3C, IE 10+/ Edge, F
 
 }
 
-.container, .container2{
+.container, .container2, .container3{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -50,6 +50,10 @@ background: linear-gradient(to right, #61045F, #AA076B); /* W3C, IE 10+/ Edge, F
 
 .container2{
     margin-top: 5vh;
+}
+
+.container3{
+    margin-top: 15vh;
 }
 
 body>h1{
@@ -72,7 +76,7 @@ body>h3{
 }
 
 .footer2{
-    margin-top: 45vh;
+    margin-top: 37 ew12q r vh;
     text-align: center;
 }
 
