@@ -10,4 +10,4 @@ future prospects -
 
 5) chat gpt api integrated on home page which displays exam countdown and a motiational quote
 
-6) MUJ Hub seniors guidance needed - attendance updates feature with number of classes you need to attend to achieve 75% ( give credit in footer to muj hub seniors )
+6) MUJ Hub seniors guidance needed - attendance updates feature with number of classes you need to attend to achieve 75% (inspired by muj hub)

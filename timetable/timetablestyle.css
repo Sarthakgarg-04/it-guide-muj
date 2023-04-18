@@ -1,0 +1,110 @@
+table, th, tr, td{
+    background-color: rgb(171, 233, 212);
+    border: 2px solid;
+    /* border-collapse: collapse; */
+}
+
+table{
+    width: 100%;
+}
+
+td,th,tr{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+th{
+    height: 100px;
+}
+ 
+tr{
+    height: 80px;
+}
+
+td:hover{
+    background-color: rgb(233, 199, 199);
+    font-weight: bolder;
+}
+.page{
+    background-color: black;
+}
+
+* th{
+    border-width: 2px;
+    border-color: blue;
+    z-index: -1;
+    background-color: rgb(35, 167, 123);
+}
+
+th:hover{
+    background-color: rgb(114, 17, 17);
+    font-weight: bolder;
+}
+
+.banner{
+   text-align: center;
+   background-color: black;
+   color: white;
+   padding-top: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+.disclaimer{
+   text-align: center;
+   background-color: black;
+   color: white;
+   padding-bottom: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+* .day{
+    border-width: 2px;
+    border-color: blue;
+    z-index: -1;
+    background-color: rgb(35, 167, 123);
+}
+
+* .blank{
+    border: 4px solid green;
+    color:  rgb(171, 233, 212);
+    font-size: 30px;
+}
+
+/* .blank:hover:after{
+    color: black;
+} */
+
+.blank:hover{
+    background-color: green;
+    color: white;
+}
+
+.day:hover{
+    background-color: rgb(224, 135, 135);
+}
+
+.wtt{
+    background-color: yellow;
+}
+
+.ost{
+    background-color: red;
+}
+
+.rdt{
+    background-color: orange;
+}
+
+.em{
+    background-color: blueviolet;
+}
+
+.veg{
+    background-color: rgb(203, 31, 154);
+}
+
+.lab{
+    background-color: rgb(226, 84, 84);
+}
